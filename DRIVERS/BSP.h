@@ -25,7 +25,7 @@
 #include "DRIVERS\gpio_2021.h"
 
 /* Definición de botones con su respectivo puerto. */
-
+/*
 #define PUERTO1         1
 #define PUERTO2         2
 #define BOTON1          (0x0002)
@@ -39,7 +39,7 @@
 #define LEDRGB_ROJO     (0x0001)
 #define LEDRGB_VERDE    (0x0002)
 #define LEDRGB_AZUL     (0x0004)
-
+*/
 /* Definición de led's plasmados en tarjeta con su respectivo puerto. */
 
 
